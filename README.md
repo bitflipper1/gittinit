@@ -1,2 +1,0 @@
-# gittinit
-Git-it tutorial
